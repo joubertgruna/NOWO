@@ -1,0 +1,18 @@
+{
+  "name": "nowo",
+  "version": "1.0.0",
+  "description": "Web Aplication NOWO",
+  "main": "index.js",
+  "scripts": {
+    "RunApp": "nodemon launch.json"
+  },
+  "author": "Joubert Santos",
+  "license": "ISC",
+  "dependencies": {
+    "ejs": "^3.1.6",
+    "express": "^4.17.3"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.15"
+  }
+}
